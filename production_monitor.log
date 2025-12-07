@@ -1,0 +1,29 @@
+2025-12-07 16:25:30,851 - INFO - Starting Production Monitor...
+2025-12-07 16:25:30,852 - INFO - Starting production simulation thread
+2025-12-07 16:25:30,853 - INFO - Mode: SIMULATION
+2025-12-07 16:25:30,854 - INFO - Shift schedule: ['Shift1', 'Shift2', 'Shift3']
+2025-12-07 16:25:30,855 - INFO - Current shift: Shift2
+2025-12-07 16:25:32,017 - INFO - Starting data transmission thread
+2025-12-07 16:25:33,158 - INFO - Data sent successfully
+2025-12-07 16:25:39,323 - INFO - Data sent successfully
+2025-12-07 16:25:41,839 - INFO - Program stopped
+2025-12-07 16:27:15,320 - INFO - Starting production simulation thread
+2025-12-07 16:27:15,320 - INFO - Starting Production Monitor...
+2025-12-07 16:27:15,321 - INFO - Mode: SIMULATION
+2025-12-07 16:27:15,322 - INFO - Shift schedule: ['Shift1', 'Shift2', 'Shift3']
+2025-12-07 16:27:15,323 - INFO - Current shift: Shift2
+2025-12-07 16:27:16,503 - INFO - Starting data transmission thread
+2025-12-07 16:27:17,648 - INFO - Data sent successfully
+2025-12-07 16:27:23,824 - INFO - Data sent successfully
+2025-12-07 16:27:29,977 - INFO - Data sent successfully
+2025-12-07 16:27:36,139 - INFO - Data sent successfully
+2025-12-07 16:27:42,295 - INFO - Data sent successfully
+2025-12-07 16:27:44,320 - INFO - Settings updated - IP: 192.168.1.100, Port: 3000, Machine ID: Machine17, Interval: 5.0, Simulation: True
+2025-12-07 16:27:48,464 - WARNING - Failed to send data
+2025-12-07 16:27:54,632 - INFO - Data sent successfully
+2025-12-07 16:27:59,598 - INFO - System stopped - Reason: Maintenance at 16:27:59
+2025-12-07 16:28:00,795 - WARNING - Failed to send data
+2025-12-07 16:28:01,737 - INFO - Email notification sent to 3emegeii@gmail.com for stop reason: Maintenance
+2025-12-07 16:28:06,139 - INFO - System running after stop: Maintenance for 0:00:06
+2025-12-07 16:28:06,960 - INFO - Data sent successfully
+2025-12-07 16:28:12,466 - INFO - Program stopped

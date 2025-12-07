@@ -1,0 +1,34 @@
+EMAIL_CONFIG:
+  EMAIL_FROM: ayoubhammami17@gmail.com
+  EMAIL_PASSWORD: sekf buda iitm nqog
+  RECIPIENTS:
+    Break: supervisor@example.com
+    Maintenance: 3emegeii@gmail.com
+    Material Shortage: logistics@example.com
+    Other: operations@example.com
+    Quality Check: quality@example.com
+  SMTP_PORT: 587
+  SMTP_SERVER: smtp.gmail.com
+LOG_BACKUP_COUNT: 3
+MACHINE_ID: Machine17
+MAX_LOG_SIZE: 1048576
+SAMPLING_INTERVAL: 5.0
+SERVER_IP: 192.168.1.100
+SERVER_PORT: 3000
+SHIFT_SCHEDULE:
+- end: '14:00:00'
+  name: Shift1
+  start: 06:00:00
+- end: '22:00:00'
+  name: Shift2
+  start: '14:00:00'
+- end: 06:00:00
+  name: Shift3
+  start: '22:00:00'
+SIMULATION: true
+STOP_REASONS:
+- Maintenance
+- Material Shortage
+- Quality Check
+- Break
+- Other
