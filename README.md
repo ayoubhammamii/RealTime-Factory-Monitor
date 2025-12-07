@@ -20,3 +20,15 @@ automation and production line monitoring.
 - Includes ACK acknowledgment system
 - Error counting and retry logic
 - Simulation mode for network testing
+
+  
+## 🖥️ Hardware Stack
+- **Raspberry Pi 4** - Main computing platform
+- **Automation HAT** - Hardware I/O for machine interfacing
+  - Digital inputs for good/reject part counting
+  - Machine state monitoring
+  - Relay outputs (optional for control)
+- **Raspberry Pi Touch Display 2** - 7" touchscreen interface
+  - Factory-floor optimized GUI
+  - Touchscreen controls for operators
+  - Real-time metrics display
